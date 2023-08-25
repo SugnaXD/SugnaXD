@@ -1,11 +1,12 @@
 # My GitHub Profile
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=efsfe)
 [![Discord](https://img.shields.io/badge/Discord-YourUsername%231234-blue.svg)](https://discord.gg/your-discord-server)
 
 ## About Me
 
-Hi there! I'm a software developer passionate about coding and open source projects. I love to explore new technologies and contribute to exciting projects. Feel free to reach out to me on Discord or through GitHub!
+Hi, I'm some guy who got into this because my friend is cool and I wanted to be like him.
+I'm a socialble dumbass
 
 ## Most Used Languages
 

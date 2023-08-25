@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi, I'm some guy who got into this because my friend is cool and I wanted to be like him.
+Hi, I'm some guy who got into this because my [friend](https://github.com/SugnaXD/SugnaXD/edit/main/README.md)  is cool and I wanted to be like him.
 I'm a socialble dumbass
 
 ## Most Used Languages

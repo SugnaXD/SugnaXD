@@ -1,7 +1,7 @@
 # My Silly and sometimes Goofy GitHub Profile
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SugnaXD)
-[![Discord](https://img.shields.io/badge/Discord-YourUsername%231234-blue.svg)](https://discord.gg/your-discord-server)
+<img src="https://discord.c99.nl/widget/theme-3/603554299485880331.png">
 
 ## About Me
 

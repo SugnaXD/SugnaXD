@@ -1,4 +1,4 @@
-# My GitHub Profile
+# My Silly and sometimes Goofy GitHub Profile
 
 ![Profile Views](https://komarev.com/ghpvc/?username=efsfe)
 [![Discord](https://img.shields.io/badge/Discord-YourUsername%231234-blue.svg)](https://discord.gg/your-discord-server)

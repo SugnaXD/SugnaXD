@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hi, I'm some guy who got into this because I saw my [friend](https://github.com/Kathund) and I thought it was cool so I'm pretty much following him around.
+Hi, I'm some guy who got into this because I saw my [friend](https://github.com/Kathund) doing this and I thought it was cool so I'm pretty much following him around.
 I'm a socialble dumbass
 
 ## Most Used Languages (:

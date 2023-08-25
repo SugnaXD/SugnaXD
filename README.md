@@ -1,6 +1,5 @@
 # My Silly and sometimes Goofy GitHub Profile
-## Github Stalking Stats
-![Profile Views](https://komarev.com/ghpvc/?username=SugnaXD)
+## Github Stalking Stats ![Profile Views](https://komarev.com/ghpvc/?username=SugnaXD)
 ---
 <img src="https://discord.c99.nl/widget/theme-3/603554299485880331.png">
 

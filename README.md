@@ -14,7 +14,10 @@ I'm a socialble dumbass
 # Github Stats
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
+  
+ "https://github-readme-streak-stats.herokuapp.com/?user=SugnaXD&hide_border=true"
+
+
   
 ## Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SugnaXD&theme=discord&no-frame=true&no-bg=false&margin-w=4)

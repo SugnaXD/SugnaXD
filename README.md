@@ -15,10 +15,17 @@ I'm a socialble dumbass
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
+<<<<<<< HEAD
 ![][Streaks](https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true)
+=======
+>>>>>>> 7d12ff420daf915b5f74eae9ca538fb540d1e7ff
   
 ## Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SugnaXD&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ## Other stuff
+<<<<<<< HEAD
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&redirect=true)
+=======
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&redirect=true)
+>>>>>>> 7d12ff420daf915b5f74eae9ca538fb540d1e7ff

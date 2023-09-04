@@ -11,3 +11,5 @@ I'm a socialble dumbass
 ## Most Used Languages (:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugnaXD)
+## Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=SugnaXD&theme=discord&no-frame=true&no-bg=false&margin-w=4)

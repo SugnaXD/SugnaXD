@@ -11,3 +11,9 @@ I'm a socialble dumbass
 ## Most Used Languages (:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugnaXD)
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=SugnaXD&&show_icons=true&theme=radical"/>
+  </a>
+  </p>

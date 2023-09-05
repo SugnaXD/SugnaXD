@@ -30,6 +30,7 @@ I'm a socialble dumbass
 ### Tools and Languages
 <a href="https://code.visualstudio.com/">
 <img align="center" src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" width="50" height="50"> 
+</a>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugnaXD)
 ### Github Stats of me

@@ -16,7 +16,7 @@ I'm a socialble dumbass
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
     ![](https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true) />
 </a>
-<img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png">
+<img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png" alt=VSCode width=80 height=80>
 
   
 ## Github Trophies

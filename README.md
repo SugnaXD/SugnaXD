@@ -27,7 +27,7 @@ Hi, I'm some guy who got into this because I saw my [friend](https://github.com/
 I'm a socialble dumbass
 <hr style="page-break-after: always; border-color: #98FF98;">
 
-### Languages and Tools
+### Tools and Languages
 <a href="https://code.visualstudio.com/">
 <img align="center" src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" width="50" height="50"> 
 

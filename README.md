@@ -1,13 +1,18 @@
+</div align=center>
+
 # My Silly and sometimes Goofy GitHub Profile
+<div align="center">
 
 ### Github Stalking Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SugnaXD)
----
+</div>
+
 ### Discord Thingo
-</div align="center">
+<div align="center">
 </br>
 <img src="https://discord.c99.nl/widget/theme-3/603554299485880331.png">
+</div>
 
 ### About Me
 </br>
@@ -34,3 +39,4 @@ I'm a socialble dumbass
 </br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&redirect=true)
+

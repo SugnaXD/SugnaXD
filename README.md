@@ -3,7 +3,6 @@
 ---
 ## Discord Thingo
 </div align="center">
-
 <img src="https://discord.c99.nl/widget/theme-3/603554299485880331.png">
 
 ## About Me

@@ -28,9 +28,12 @@ I'm a socialble dumbass
 <hr style="page-break-after: always; border-color: #98FF98;">
 
 ### Languages and Tools
+<a href="https://code.visualstudio.com/">
+<img align="center" src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" width="50" height="50"> 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugnaXD)
-### Github Stats
+### Github Stats of me
+
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
     ![](https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true) />

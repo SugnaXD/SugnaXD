@@ -37,7 +37,7 @@ I'm a socialble dumbass
 
 <a href="https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true) />
+![](https://github-readme-streak-stats.herokuapp.com/?user=SugnaXD&hide_border=true) />
 </a>
 <hr style="page-break-after: always; border-color: #98FF98;">
   

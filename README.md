@@ -8,14 +8,15 @@
 Hi, I'm some guy who got into this because I saw my [friend](https://github.com/Kathund) doing this and I thought it was cool so I'm pretty much following him around.
 I'm a socialble dumbass
 
-## Most Used Languages (:
+## Languages and Tools
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugnaXD)
 # Github Stats
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
     ![](https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true) />
-<a />
+</a>
+<img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png">
 
   
 ## Github Trophies

@@ -24,7 +24,7 @@
 <div align="center">
 
 Hi, I'm some guy who got into this because I saw my [friend](https://github.com/Kathund) doing this and I thought it was cool so I'm pretty much following him around.
-I'm a socialble dumbass
+I'm a socialble dumbass who likes phonk and lofi music.
 <hr style="page-break-after: always; border-color: #98FF98;">
 
 ### Tools and Languages

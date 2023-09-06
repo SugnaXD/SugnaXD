@@ -1,4 +1,4 @@
-<div align=center>
+<div align="center">
 
 # My Silly and sometimes Goofy GitHub Profile
 <div align="center">
@@ -28,21 +28,17 @@ I'm a socialble dumbass who likes phonk and lofi music.
 <hr style="page-break-after: always; border-color: #98FF98;">
 
 ### Tools and Languages
-<a href="https://code.visualstudio.com/">
-<img align="center" src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" width="50" height="50"> 
-</a> 
+[<img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" width="80" height="80">](https://code.visualstudio.com/)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugnaXD)
 ### Github Stats of me
 
-<a href="https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SugnaXD&hide_border=true) />
-</a>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=SugnaXD&hide_border=true)
 <hr style="page-break-after: always; border-color: #98FF98;">
   
 ### Github Trophies
-![](https://github-profile-trophy.vercel.app/?username=SugnaXD&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=SugnaXD&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 <hr style="page-break-after: always; border-color: #98FF98;">
 
@@ -50,7 +46,6 @@ I'm a socialble dumbass who likes phonk and lofi music.
 <p>
 </br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&redirect=true)
 
 <hr style="page-break-after: always; border-color: #98FF98;">
-

@@ -6,14 +6,14 @@
 
 ### Github Stalking Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=SugnaXD)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://komarev.com/ghpvc/?username=SugnaXD"></a>
 </div>
 <hr style="page-break-after: always; border-color: #98FF98;">
 
 ### Discord Thingo 
 <div align="center">
 </br>
-<img src="https://discord.c99.nl/widget/theme-3/603554299485880331.png">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://discord.c99.nl/widget/theme-3/603554299485880331.png"></a>
 </div>
 
 ###### feel free to add me   (:
@@ -30,15 +30,15 @@ I'm a socialble dumbass who likes phonk and lofi music.
 ### Tools and Languages
 [<img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" width="80" height="80">](https://code.visualstudio.com/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugnaXD)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugnaXD"></a>
 ### Github Stats of me
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=SugnaXD&hide_border=true)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SugnaXD&hide_border=true"></a>
 <hr style="page-break-after: always; border-color: #98FF98;">
   
 ### Github Trophies
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=SugnaXD&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github-profile-trophy.vercel.app/?username=SugnaXD&theme=discord&no-frame=true&no-bg=false&margin-w=4"></a>
 
 <hr style="page-break-after: always; border-color: #98FF98;">
 

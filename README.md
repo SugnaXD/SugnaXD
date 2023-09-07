@@ -44,6 +44,9 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" alt="Visual Studio Code" width="80" height="80">
   </a>
+  <a href="https://www.figma.com/">
+    <img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/Figma-icon.png?raw=true"
+    alt="Figma" width="80" height="80">
 </div>
 <div>
   <a href="https://en.wikipedia.org/wiki/Pie_chart">

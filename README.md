@@ -1,6 +1,6 @@
 <div align="center">
 
-# My Silly and sometimes Goofy GitHub Profile
+# My Silly and Sometimes Goofy GitHub Profile
 
 <hr style="page-break-after: always; border-color: #98FF98;">
 
@@ -30,7 +30,7 @@ I'm a socialble dumbass who likes phonk and lofi music.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugnaXD)
 ### Github Stats of me
-[<img src="https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)">](https://simple.wikipedia.org/wiki/Grade_(education))
+[<img src="https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=#00FFFFf&bg_color=#FF0000)">](https://simple.wikipedia.org/wiki/Grade_(education))
 
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=SugnaXD&hide_border=true">](https://www.urbandictionary.com/define.php?term=Streak)
 <hr style="page-break-after: always; border-color: #98FF98;">

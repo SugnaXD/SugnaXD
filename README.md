@@ -42,7 +42,7 @@
 ### Tools and Languages
 <div>
   <a href="https://code.visualstudio.com/">
-    <img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" alt="Visual Studio Code" width="80" height="80">
+    <img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" alt="Visual Studio Code" width="80" height="120">
   </a>
 </div>
 <div>

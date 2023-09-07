@@ -28,9 +28,9 @@ I'm a socialble dumbass who likes phonk and lofi music.
 ### Tools and Languages
 [<img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" width="80" height="80">](https://code.visualstudio.com/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SugnaXD)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie">](https://en.wikipedia.org/wiki/Pie_chart)
 ### Github Stats of me
-[<img src="https://github-readme-stats.vercel.app/api?username=SugnaXD&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=#00FFFFf&bg_color=#FF0000)">](https://simple.wikipedia.org/wiki/Grade_(education))
+[<img src="https://github-readme-stats.vercel.app/api?username=SugnaXD&show_icons=true&theme=midnight-purple&hide_border=true">](https://simple.wikipedia.org/wiki/Grade_(education))
 
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=SugnaXD&hide_border=true">](https://www.urbandictionary.com/define.php?term=Streak)
 <hr style="page-break-after: always; border-color: #98FF98;">
@@ -44,7 +44,7 @@ I'm a socialble dumbass who likes phonk and lofi music.
 <p>
 </br>
 
-[<img src="(https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&redirect=true)
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=98ff98&interchange=false&bar_color=000000&bar_color_cover=false">](https://github.com/kittinan/spotify-github-profile)
 
 <hr style="page-break-after: always; border-color: #98FF98;">
 </div>

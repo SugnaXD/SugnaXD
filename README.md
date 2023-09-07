@@ -44,7 +44,7 @@ I'm a socialble dumbass who likes phonk and lofi music.
 <p>
 </br>
 
-[<img src="https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=98ff98&interchange=false&bar_color=000000&bar_color_cover=false">](https://github.com/kittinan/spotify-github-profile)
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=98ff98&bar_color_cover=false">](https://github.com/kittinan/spotify-github-profile)
 
 <hr style="page-break-after: always; border-color: #98FF98;">
 </div>

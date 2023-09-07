@@ -6,7 +6,7 @@
 
 ### Github Stalking Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=SugnaXD)
+<img src="https://komarev.com/ghpvc/?username=SugnaXD" alt="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 </div>
 <hr style="page-break-after: always; border-color: #98FF98;">
 

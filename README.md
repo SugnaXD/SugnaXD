@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SugnaXD&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats">
 </a>
 <a href="https://www.urbandictionary.com/define.php?term=Streak">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugnaXD&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=SugnaXD&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
 </a>
 <hr style="page-break-after: always; border-color: #98FF98;">
   

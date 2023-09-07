@@ -41,15 +41,16 @@
 
 ### Tools and Languages
 <div>
-  <a href="https://github.com/SugnaXD/SugnaXD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=SugnaXD&theme=midnight-purple&hide_border=true" alt="SugnaXD Repository">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" alt="Visual Studio Code" width="80" height="80">
   </a>
 </div>
 <div>
-  <a href="https://github.com/SugnaXD/funnywebsite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=funnywebsite&theme=midnight-purple&hide_border=true" alt="Funny Website Repository">
+  <a href="https://en.wikipedia.org/wiki/Pie_chart">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" alt="Top Languages">
   </a>
 </div>
+</a>
 
 ### Github Stats
 <a href="https://simple.wikipedia.org/wiki/Grade_(education)">

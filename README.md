@@ -28,7 +28,7 @@ I'm a socialble dumbass who likes phonk and lofi music.
 ### Reposetory Stats
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=SugnaXD&theme=midnight-purple&hide_border=true">](https://github.com/SugnaXD/SugnaXD)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=funnywebsite&theme=midnight-purple&hide_border=true">](https://github.com/SugnaXD/funnywebsite)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=Dbot-in-dev-&theme=midnight-purple&hide_border=true">](https://github.com/SugnaXD/SugnaXD)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=Dbot-in-dev-&theme=midnight-purple&hide_border=true">](https://github.com/SugnaXD/Dbot-in-dev-)
 
 
 ### Tools and Languages

@@ -6,7 +6,9 @@
 
 ### Github Stalking Stats
 
-[<img src="https://komarev.com/ghpvc/?username=SugnaXD">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://komarev.com/ghpvc/?username=SugnaXD" alt="Profile Views">
+</a>
 
 <hr style="page-break-after: always; border-color: #98FF98;">
 
@@ -21,28 +23,44 @@
 ### About Me
 </br>
 
-Hi, I'm some guy who got into this because I saw my [friend](https://github.com/Kathund) doing this and I thought it was cool so I'm pretty much following him around.
-I'm a socialble dumbass who likes phonk and lofi music.
+<p>Hi, I'm some guy who got into this because I saw my <a href="https://github.com/Kathund">friend</a> doing this and I thought it was cool so I'm pretty much following him around.</p>
+<p>I'm a sociable dumbass who likes phonk and lofi music.</p>
 <hr style="page-break-after: always; border-color: #98FF98;">
 
 ### Reposetory Stats
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=SugnaXD&theme=midnight-purple&hide_border=true">](https://github.com/SugnaXD/SugnaXD)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=funnywebsite&theme=midnight-purple&hide_border=true">](https://github.com/SugnaXD/funnywebsite)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=Dbot-in-dev-&theme=midnight-purple&hide_border=true">](https://github.com/SugnaXD/Dbot-in-dev-)
-
+<a href="https://github.com/SugnaXD/SugnaXD">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=SugnaXD&theme=midnight-purple&hide_border=true" alt="SugnaXD Repository">
+</a>
+<a href="https://github.com/SugnaXD/funnywebsite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=funnywebsite&theme=midnight-purple&hide_border=true" alt="Funny Website Repository">
+</a>
+<a href="https://github.com/SugnaXD/Dbot-in-dev-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=Dbot-in-dev-&theme=midnight-purple&hide_border=true" alt="Dbot-in-dev- Repository">
+</a>
+<hr style="page-break-after: always; border-color: #98FF98;">
 
 ### Tools and Languages
-[<img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" width="80" height="80">](https://code.visualstudio.com/)
+<a href="https://code.visualstudio.com/">
+  <img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" alt="Visual Studio Code" width="80" height="80">
+</a>
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie">](https://en.wikipedia.org/wiki/Pie_chart)
-### Github Stats of me
-[<img src="https://github-readme-stats.vercel.app/api?username=SugnaXD&show_icons=true&theme=midnight-purple&hide_border=true">](https://simple.wikipedia.org/wiki/Grade_(education))
+<a href="https://en.wikipedia.org/wiki/Pie_chart">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" alt="Top Languages">
+</a>
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=SugnaXD&hide_border=true">](https://www.urbandictionary.com/define.php?term=Streak)
+### Github Stats
+<a href="https://simple.wikipedia.org/wiki/Grade_(education)">
+  <img src="https://github-readme-stats.vercel.app/api?username=SugnaXD&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats">
+</a>
+<a href="https://www.urbandictionary.com/define.php?term=Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugnaXD&hide_border=true" alt="GitHub Streak Stats">
+</a>
 <hr style="page-break-after: always; border-color: #98FF98;">
   
 ### Github Trophies
-[<img src="https://github-profile-trophy.vercel.app/?username=SugnaXD&theme=discord&no-frame=true&no-bg=false&margin-w=4">](https://en.wiktionary.org/wiki/trophy)
+<a href="https://en.wiktionary.org/wiki/trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SugnaXD&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+</a>
 
 <hr style="page-break-after: always; border-color: #98FF98;">
 
@@ -50,7 +68,10 @@ I'm a socialble dumbass who likes phonk and lofi music.
 <p>
 </br>
 
-[<img src="https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=98ff98&bar_color_cover=false">](https://github.com/kittinan/spotify-github-profile)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=98ff98" alt="Spotify GitHub Profile">
+</a>
+</p>
 
 <hr style="page-break-after: always; border-color: #98FF98;">
 </div>

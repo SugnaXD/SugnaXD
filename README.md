@@ -25,6 +25,12 @@ Hi, I'm some guy who got into this because I saw my [friend](https://github.com/
 I'm a socialble dumbass who likes phonk and lofi music.
 <hr style="page-break-after: always; border-color: #98FF98;">
 
+### Reposetory Stats
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=SugnaXD&theme=midnight-purple&hide_border=true">](https://github.com/SugnaXD/SugnaXD)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=funnywebsite&theme=midnight-purple&hide_border=true">](https://github.com/SugnaXD/funnywebsite)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=SugnaXD&repo=Dbot-in-dev-&theme=midnight-purple&hide_border=true">](https://github.com/SugnaXD/SugnaXD)
+
+
 ### Tools and Languages
 [<img src="https://github.com/SugnaXD/SugnaXD/blob/main/assests/icons/visual_studio_code.png?raw=true" width="80" height="80">](https://code.visualstudio.com/)
 

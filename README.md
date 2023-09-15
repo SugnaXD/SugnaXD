@@ -10,6 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=SugnaXD" alt="Profile Views">
 </a>
 
+
 <hr style="page-break-after: always; border-color: #98FF98;">
 
 ### Discord Thingo 
@@ -25,6 +26,10 @@
 
 <p>Hi, I'm some guy who got into this because I saw my <a href="https://github.com/Kathund">friend</a> doing this and I thought it was cool so I'm pretty much following him around.</p>
 <p>I'm a sociable dumbass who likes phonk and lofi music.</p>
+<a href="https://en.wikipedia.org/wiki/Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When I die I want to watch the world in spectator mode&author=Dagz">
+</a>
+<p> The best quote ever.</p>
 <hr style="page-break-after: always; border-color: #98FF98;">
 
 ### Reposetory Stats

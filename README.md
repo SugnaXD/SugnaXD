@@ -80,6 +80,7 @@
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&redirect=true">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=98ff98" alt="Spotify GitHub Profile">
 </a>
+<br>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=ejfdth0l196xx1krf2ufbwim0&count=3">
 </p>
 

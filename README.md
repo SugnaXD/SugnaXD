@@ -83,7 +83,7 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=98ff98" alt="Spotify GitHub Profile">
 </a>
 <br>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=ejfdth0l196xx1krf2ufbwim0&count=3">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=ejfdth0l196xx1krf2ufbwim0&count=3" width=500 height=1000>
 </p>
 <br>
 <hr style="page-break-after: always; border-color: #98FF98;">

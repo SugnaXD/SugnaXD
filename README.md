@@ -27,10 +27,6 @@
 <p>Hi, I'm some guy who got into this because I saw my <a href="https://github.com/Kathund">friend</a> doing this and I thought it was cool so I'm pretty much following him around.</p>
 <p>I'm a sociable dumbass who likes phonk and lofi music.</p>
 
-
-</a>
-
-<p> The best quote ever.</p>
 <hr style="page-break-after: always; border-color: #98FF98;">
 
 ### Reposetory Stats

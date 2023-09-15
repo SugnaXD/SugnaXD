@@ -85,6 +85,6 @@
 <br>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=ejfdth0l196xx1krf2ufbwim0&count=3">
 </p>
-
+<br>
 <hr style="page-break-after: always; border-color: #98FF98;">
 </div>

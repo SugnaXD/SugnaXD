@@ -61,7 +61,8 @@
   <img src="https://streak-stats.demolab.com?user=SugnaXD&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
 </a>
 <a href="https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SugnaXD&custom_title=Goofy%20Activity%20Graph&bg_color=000000&color=BB29BB&line=9B26B6&point=A629C2&hide_border=true" alt="Goofy Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SugnaXD&custom_title=Goofy%20Activity%20Graph&bg_color=000000&color=BB29BB&line=9B26B6&point=A629C2&hide_border=true" alt="Goofy Activity Graph"> 
+  </a>
 <hr style="page-break-after: always; border-color: #98FF98;">
 
   
@@ -79,6 +80,7 @@
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&redirect=true">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ejfdth0l196xx1krf2ufbwim0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=98ff98" alt="Spotify GitHub Profile">
 </a>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=ejfdth0l196xx1krf2ufbwim0&count=3">
 </p>
 
 <hr style="page-break-after: always; border-color: #98FF98;">

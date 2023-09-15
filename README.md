@@ -28,7 +28,7 @@
 <p>I'm a sociable dumbass who likes phonk and lofi music.</p>
 
 <a href="https://en.wikipedia.org/wiki/Quote">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When I die I want to watch the world in spectator mode&author=Dagz">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&?quote=When I die I want to watch the world in spectator mode?author=Dagz">
 </a>
 
 <p> The best quote ever.</p>

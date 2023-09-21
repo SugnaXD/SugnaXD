@@ -19,6 +19,8 @@
 <a href="https://discord.gg/EzaaMcQahq">
 <img src="https://discord.c99.nl/widget/theme-3/603554299485880331.png">
 </a>
+<br>
+</br>
 ###### feel free to add me   (:
 <hr style="page-break-after: always; border-color: #98FF98;">
 

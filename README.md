@@ -80,7 +80,7 @@
 
 <hr style="page-break-after: always; border-color: #98FF98;">
 
-### Other stuff
+### Spotify
 <p>
 </br>
 

@@ -65,7 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SugnaXD&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats">
 </a>
 <a href="https://www.urbandictionary.com/define.php?term=Streak">
-  <img src="https://streak-stats.demolab.com?user=SugnaXD&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=SugnaXD&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats" alt="GitHub Streak Stats">
 </a>
 <a href="https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SugnaXD&custom_title=Goofy%20Activity%20Graph&bg_color=000000&color=BB29BB&line=9B26B6&point=A629C2&hide_border=true" alt="Goofy Activity Graph"> 
